@@ -2,7 +2,7 @@
 /**
  *
  * @author David Schwehr <dpschwehr[at]gmail[.com]> github: dssquared
- * @author Tim Megher
+ * @author Tim Wegher
  * @brief java program used to parse information from a memory dump file
  *        looking for matches from credit card reader stream.
  *        Lab1 for Computer Security Spring 2016 MSU-Bozeman
